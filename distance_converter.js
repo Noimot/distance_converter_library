@@ -24,12 +24,12 @@ Converter.prototype.convertKmToMiles = function (number) {
 
 
 Converter.prototype.convertCmToM = function (number) {
-    return number * 100;
+    return number / 100;
 }
 
 
 Converter.prototype.convertMToCm = function (number) {
-    return number / 100;
+    return number * 100;
 }
 
 
