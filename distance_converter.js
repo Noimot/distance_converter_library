@@ -32,7 +32,5 @@ Converter.prototype.convertMToCm = function (number) {
 }
 
 
-Converter.prototype.clearButton = function (number) {
-    return number = "";
-}
+
 
