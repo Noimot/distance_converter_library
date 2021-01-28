@@ -1,8 +1,7 @@
-
+                           
 function Converter(convertFrom, convertTo) {
     this.convertFrom = convertFrom;
     this.convertTo = convertTo;
-
 }
 
 Converter.prototype.convertKmToM = function (number) {
